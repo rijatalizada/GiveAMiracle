@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/GiveAMiracle/static/css/main.657ecfde.css",
-    "main.js": "/GiveAMiracle/static/js/main.e2c51468.js",
+    "main.js": "/GiveAMiracle/static/js/main.288cf930.js",
     "index.html": "/GiveAMiracle/index.html",
     "main.657ecfde.css.map": "/GiveAMiracle/static/css/main.657ecfde.css.map",
-    "main.e2c51468.js.map": "/GiveAMiracle/static/js/main.e2c51468.js.map"
+    "main.288cf930.js.map": "/GiveAMiracle/static/js/main.288cf930.js.map"
   },
   "entrypoints": [
     "static/css/main.657ecfde.css",
-    "static/js/main.e2c51468.js"
+    "static/js/main.288cf930.js"
   ]
 }
